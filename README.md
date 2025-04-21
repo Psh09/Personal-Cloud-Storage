@@ -23,6 +23,7 @@ This project was developed as part of the **Cloud Computing Lab (CCL)** coursewo
   - Firebase Authentication  
   - Firebase Firestore  
   - Firebase Cloud Storage
+  - Firebase Hosting
 
 ---
 
