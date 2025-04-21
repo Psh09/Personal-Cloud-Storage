@@ -28,11 +28,11 @@ This project was developed as part of the **Cloud Computing Lab (CCL)** coursewo
 
 ## 🖼️ Screenshots
 
-| Login Page | Dashboard | Upload Dialog |
+| Login Page | SignUp Page | Reset Password |
 |------------|-----------|---------------|
 | ![Screenshot-1](./screenshots/Screenshot-1.png) | ![Screenshot-2](./screenshots/Screenshot-2.png) | ![Screenshot-3](./screenshots/Screenshot-3.png) |
 
-| File List | Mobile View | Delete Confirmation |
+| File List | Mobile View | Create File |
 |-----------|-------------|---------------------|
 | ![Screenshot-4](./screenshots/Screenshot-4.png) | ![Screenshot-5](./screenshots/Screenshot-5.png) | ![Screenshot-6](./screenshots/Screenshot-6.png) |
 
@@ -40,6 +40,31 @@ This project was developed as part of the **Cloud Computing Lab (CCL)** coursewo
 
 ## 📦 Installation & Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Psh09/Personal-Cloud-Storage.git
+```bash
+# 1. Clone the repository:
+git clone https://github.com/Psh09/Personal-Cloud-Storage.git
+
+# 2. Navigate to the project folder:
+cd Personal-Cloud-Storage
+
+# 3. Install dependencies:
+npm install
+
+# 4. Run the development server:
+npm run dev
+
+```
+---
+
+## 👨‍💻 Developed By
+
+**Prajwal Halle**  
+3rd Year Computer Engineering  
+Pillai HOC College of Engineering and Technology  
+Email: *prajwalsh22hcompe@student.mes.ac.in*
+
+---
+
+## 📚 License
+
+This project is intended for academic purposes only.
